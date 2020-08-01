@@ -8,7 +8,7 @@ Collabnix Python Labs brings you tutorials that help you get hands-on experience
 
 #  Getting Started in 3 Simple Steps
 
-- Join 4300+ Collabnix Labs Contributors in 2 mins via [DockerLabs Slack Channel](https://join.slack.com/t/collabnix/shared_invite/enQtODgyMjk0MzU5ODQyLTM1MGI0M2EzMGM3MTNlYTI0OGFiNjY2NzI1OTY2N2E1Yjk1N2NjZDMzZDk1NmYyMTJiYTA1ODMyNDNlNzc3MjU)
+- Join 4300+ Collabnix Labs Contributors in 2 mins via [Collabnix Slack Channel](https://join.slack.com/t/collabnix/shared_invite/enQtODgyMjk0MzU5ODQyLTM1MGI0M2EzMGM3MTNlYTI0OGFiNjY2NzI1OTY2N2E1Yjk1N2NjZDMzZDk1NmYyMTJiYTA1ODMyNDNlNzc3MjU)
 
 - Fork, Contribute & Share via [Python GITHUB Repository](https://github.com/collabnix/python)
 
