@@ -25,6 +25,4 @@ Collabnix Python Labs brings you tutorials that help you get hands-on experience
 
 - Python 301
 
-# Daily Quizzes 
 
-[August 2020]()
