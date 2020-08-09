@@ -25,14 +25,6 @@ Collabnix PyLabs brings you tutorials that help you get hands-on experience usin
 
 # REST API Development Hands-on Workshop/Labs
 
-<<<<<<< HEAD
 - Flask & REST API development
 - Databases & ORMs
 - Authentication & Authorization
-=======
-- Python 301
-
-# Daily Quizzes 
-
-[August 2020]()
->>>>>>> 5c6e755... Update README.md
