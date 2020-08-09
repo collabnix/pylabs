@@ -1,0 +1,52 @@
+# Python 201 & Hands on Labs
+
+- Docstrings
+- Virtual Environments
+- Generators
+- Iterators
+- Closures
+- Decorators
+- Object Oriented Programming
+  - Classes
+  - Objects
+  - What is self?
+  - Constructor
+  - Class & Instance variable
+  - Diff between \__new__ & \__init__
+  - Composition
+  - Inheritance
+    - Multi-level Inheritance
+    - Multiple Inheritance
+  - Use of Super
+  - Encapsulation
+  - Polymorphism
+  - Class method, Static Method & Instance Method
+  - Method Resoltion Order
+- ConfigParser Module
+- Logging Module
+- Re Module
+- SQLlite module
+- Connecting to Databases
+- Multithreading & Multiprocessing
+  - Process vs Threads
+  - Threading Limitations
+  - Ways of creating Threads
+  - Creating worker pool
+  - Running Processes
+  - Using multiprocessing Pool
+  - Sharing state between Threads
+  - Sharing state between Processes
+- Python Debugger Module (pdb)
+- Introduction to Unit testing
+  - Mocking
+  - Fixtures
+- Linters
+- Request Module
+- Intro to http.server
+- XML Parser
+- CSV Module
+- Argparse Module
+- Subprocess Moduile
+- Garbadge Collection
+- Collections module
+- Usage of pip
