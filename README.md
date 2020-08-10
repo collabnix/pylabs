@@ -1,10 +1,10 @@
 # Welcome to Python Labs
 
+[![PyLabs](assets/pylabs.png)](http://pylabs.collabnix.com/)
 
 
 
-
-Collabnix Python Labs brings you tutorials that help you get hands-on experience using Python. Here you will find complete documentation of labs and tutorials that will help you, no matter if you are a beginner, SysAdmin, IT Pro or Developer. 
+Collabnix PyLabs brings you tutorials that help you get hands-on experience using Python. Here you will find complete documentation of labs and tutorials that will help you, no matter if you are a beginner, SysAdmin, IT Pro or Developer.
 
 #  Getting Started in 3 Simple Steps
 
@@ -17,12 +17,14 @@ Collabnix Python Labs brings you tutorials that help you get hands-on experience
 
 # PythonHands-on Workshop/Labs
 
-- [Getting Started: Why, What & How about Python?]()
+- [Python 101](Python101/README.md)
 
-- Python 101
+- [Python 201](Python201/README.md)
 
-- Python 201
+- [Python 301](Python301/README.md)
 
-- Python 301
+# REST API Development Hands-on Workshop/Labs
 
-
+- Flask & REST API development
+- Databases & ORMs
+- Authentication & Authorization
