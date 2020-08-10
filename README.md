@@ -1,4 +1,4 @@
-# Welcome to Python Labs
+# Welcome to PyLabs
 
 [![PyLabs](assets/pylabs.png)](http://pylabs.collabnix.com/)
 
