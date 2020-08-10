@@ -15,7 +15,7 @@ Collabnix PyLabs brings you tutorials that help you get hands-on experience usin
 -  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
 
 
-# PythonHands-on Workshop/Labs
+# Python Hands-on Workshop/Labs
 
 - [Python 101](Python101/README.md)
 
