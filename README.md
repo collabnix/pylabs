@@ -4,7 +4,7 @@
 
 
 
-Collabnix PyLabs brings you tutorials that help you get hands-on experience using Python. Here you will find complete documentation of labs and tutorials that will help you, no matter if you are a beginner, SysAdmin, IT Pro or Developer.
+PyLabs brings you tutorials that help you get hands-on experience using Python. Here you will find complete documentation of labs and tutorials that will help you, no matter if you are a beginner, Pro or expert.
 
 #  Getting Started in 3 Simple Steps
 
