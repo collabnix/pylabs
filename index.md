@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Welcome to PyLabs
 
-You can use the [editor on GitHub](https://github.com/collabnix/pylabs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![PyLabs](assets/pylabs.png)](http://pylabs.collabnix.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+PyLabs brings you tutorials that help you get hands-on experience using Python. Here you will find complete documentation of labs and tutorials that will help you, no matter if you are a beginner, Pro or expert.
 
-```markdown
-Syntax highlighted code block
+#  Getting Started in 3 Simple Steps
 
-# Header 1
-## Header 2
-### Header 3
+- Join 4300+ Collabnix Labs Contributors in 2 mins via [Collabnix Slack Channel](https://join.slack.com/t/collabnix/shared_invite/enQtODgyMjk0MzU5ODQyLTM1MGI0M2EzMGM3MTNlYTI0OGFiNjY2NzI1OTY2N2E1Yjk1N2NjZDMzZDk1NmYyMTJiYTA1ODMyNDNlNzc3MjU)
 
-- Bulleted
-- List
+- Fork, Contribute & Share via [Python GITHUB Repository](https://github.com/collabnix/python)
 
-1. Numbered
-2. List
+-  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Python Hands-on Workshop/Labs
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Python 101](Python101/README.md)
 
-### Jekyll Themes
+- [Python 201](Python201/README.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/collabnix/pylabs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Python 301](Python301/README.md)
 
-### Support or Contact
+# REST API Development Hands-on Workshop/Labs
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Flask & REST API development
+- Databases & ORMs
+- Authentication & Authorization
